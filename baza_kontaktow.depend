@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1497484651 source:c:\users\danie\desktop\pierwszy kamien milowy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"main.h"
+
+1497484675 source:c:\users\danie\desktop\pierwszy kamien milowy\delete.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+
+1497485856 c:\users\danie\desktop\pierwszy kamien milowy\main.h
+
+1497473655 source:c:\users\danie\desktop\pierwszy kamien milowy\edit.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"main.h"
+
+1497477271 source:c:\users\danie\desktop\pierwszy kamien milowy\insert.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1497478192 source:c:\users\danie\desktop\pierwszy kamien milowy\print.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1497467231 source:c:\users\danie\desktop\pierwszy kamien milowy\remove.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1497476695 source:c:\users\danie\desktop\pierwszy kamien milowy\id.c
+	"main.h"
+
+1497484715 source:c:\users\danie\desktop\pierwszy kamien milowy\files.c
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497478449 source:c:\users\danie\desktop\pierwszy kamien milowy\phones_number.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1497475922 source:c:\users\danie\desktop\pierwszy kamien milowy\load.c
+	"main.h"
+	<stdio.h>
+	<string.h>
+
+1496267631 source:c:\users\danie\desktop\pierwszy kamien milowy\email.c
+	<stdio.h>
+	"main.h"
+
+1497473364 source:c:\users\danie\desktop\pierwszy kamien milowy\sort.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"main.h"
+
+1496441032 source:c:\users\danie\desktop\pierwszy kamien milowy\delete_number.c
+	"main.h"
+	<stdio.h>
+
+1497484715 source:c:\users\danie\desktop\pierwszy kamien milowy\search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"main.h"
+
+1497478142 source:c:\users\danie\desktop\pierwszy kamien milowy\delete_email.c
+	"main.h"
+	<stdio.h>
+
