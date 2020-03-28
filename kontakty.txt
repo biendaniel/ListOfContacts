@@ -1,6 +1,6 @@
 1
 Daniel
-Bien
+Abc
 Kielce
 Warszawska
 30
@@ -9,9 +9,9 @@ Kielce
 123456123|
 daniel@wp.pl|
 2
-Iga
-Swierczyna
-Czostkow
+Igor
+Swierk
+Czoskowice
 BRAK
 30
 11-222
@@ -20,8 +20,8 @@ Krasocin
 iga@wp.pl|
 3
 Marcin
-Labuda
-Kostomloty
+Tester
+Kotomloty
 Warszawska
 1
 29-333
